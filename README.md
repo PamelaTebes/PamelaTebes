@@ -1,16 +1,35 @@
-## Hi there 👋
+## ¡Hola! Soy Pamela Tebes 👩🏻‍💻📊
 
-<!--
-**PamelaTebes/PamelaTebes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Analista de Datos | Business Intelligence | Ciencia de Datos
+**Argentina 🇦🇷**
 
-Here are some ideas to get you started:
+### Un poco más sobre mí...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const pamela = {
+  role: "Data Analyst",
+  location: "Argentina 🇦🇷",
+  skills: [
+    "Excel",
+    "SQL",
+    "Power BI",
+    "Data Analytics",
+    "Business Intelligence"
+  ],
+  interests: [
+    "Mining ⛏️",
+    "Oil & Gas 🛢️",
+    "Data Visualization",
+    "Operational Analytics"
+  ],
+  goal: "Transformar datos en decisiones."
+};
+```
+
+### Puedes encontrarme
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pamela-tebes/)
+
+### ¿Mi objetivo?
+
+Aplicar la analítica de datos para transformar operaciones en oportunidades de mejora. 🚀
